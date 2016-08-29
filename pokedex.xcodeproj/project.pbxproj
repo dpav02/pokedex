@@ -80,7 +80,6 @@
 		B0C21B8A1D74F09800FEBC71 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				B0C21B771D73CAE700FEBC71 /* ViewController.swift */,
 				B0C21B791D73CAE700FEBC71 /* Main.storyboard */,
 				B0C21B7E1D73CAE800FEBC71 /* LaunchScreen.storyboard */,
 			);
@@ -90,6 +89,7 @@
 		B0C21B8B1D74F09D00FEBC71 /* Control */ = {
 			isa = PBXGroup;
 			children = (
+				B0C21B771D73CAE700FEBC71 /* ViewController.swift */,
 			);
 			name = Control;
 			sourceTree = "<group>";
